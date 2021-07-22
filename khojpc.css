@@ -1,0 +1,60 @@
+body
+{
+  font-family: Arial;
+}
+* 
+{
+  box-sizing: border-box;
+}
+
+.forminput[type=text] 
+{
+padding: 10px;
+margin-left: -210px;
+margin-bottom: 20px;
+font-size: 17px;
+border: 1px solid gray;
+float: left;
+width: 800px;
+background: whitesmoke;
+border-radius: 25px;
+border-top-right-radius: 0px;
+border-bottom-right-radius: 0px;
+display: inline-block;
+}
+
+
+.signupbutton 
+{
+float: right;
+width: 10%;
+padding: 18px;
+background: #0add3f;
+color: white;
+font-size: 17px;
+border: 1px solid grey;
+border-left: none;
+cursor: pointer;
+border-radius: 0px;
+border-top-left-radius: 0px;
+border-bottom-left-radius: 0px;
+}
+
+.a
+{
+text-decoration: none;
+color:white;
+}
+
+.morething 
+{
+background-color: white;
+border: white;
+cursor: pointer;
+}
+
+i {
+margin-right: 20px;
+margin-left: 90px;
+margin-top: 20px;
+}
